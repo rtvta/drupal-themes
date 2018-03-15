@@ -1,0 +1,127 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.page-node-175 #page175{
+    background: white;
+    color: #00457c;
+	font-family: 'Noto Sans Hebrew', sans-serif;
+    font-size: 14px;
+	line-height: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	height: auto;
+	margin: 0;
+	padding: 0;
+}
+.page-node-175 .region-page-top, .page-node-175 .region-page-bottom{display: none}
+.page-node-175 #page175 .content{margin: 0; padding: 0}
+
+.page-node-175 #page175 .field-items{display: none;}
+
+.page-node-175 #page175 .form-item{
+
+	margin-left: 15px;
+}
+.page-node-175 #page175 .form-item.form-type-item{
+	display: none !important;
+}
+.page-node-175 #page175 fieldset{
+	border: none;
+    background: transparent;
+    padding: 0;
+    color: #fff;
+    display: inline-block;
+    position: static; top: 0; margin: 0
+}
+.page-node-175 #page175 fieldset.form-wrapper legend{
+	display: none !important;
+}
+.page-node-175 #page175 .form-actions{
+	margin: 0;
+	padding: 0;
+
+}
+.page-node-175 #page175 form{
+    background: white;
+    width: 790px;
+    height: 60px;
+	padding: 5px 12px;
+}
+.page-node-175 #page175 form input{
+	font-family: 'Noto Sans Hebrew', sans-serif;
+    font-size: 14px;
+	line-height: 14px;
+	border-radius: 3px;
+	box-shadow: inner 0 3px 10px rgba(0,0,0,0.3) !important;
+    padding: 8px 5px;
+}
+.page-node-175 #page175 form fieldset .fieldset-wrapper{margin: 0;padding: 0}
+.page-node-175 #page175 form label{
+    font-family: 'Noto Sans Hebrew', sans-serif;
+    font-size: 1rem;
+    line-height: 1.7em;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.85);
+
+}
+.page-node-175 input.form-text, .page-node-175 textarea.form-textarea{
+	width: 210px;
+    height: 18px;
+}
+.page-node-175 select.form-select{
+	width: 120px;
+    height: 28px;
+	margin: 2px 0;
+	padding: 0;
+	display: inline-block;
+}
+.page-node-175 #page175 .marker, .form-required{color: white;}
+
+.page-node-175 .webform-confirmation{color: #000}
+
+.page-node-175 .webform-submit, .page-node-175 .webform-submit:hover{
+	margin: 0 0 30px 0 !important;
+    width: 230px;
+    height: 60px;
+    font-size: 24px !important;
+    line-height: 50px;
+    background: #f36f21 !important;
+    transition: .3s ease;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.3) !important;
+    padding: 5px 15px;
+
+    border: none;
+    border-color: transparent;
+    border-radius: 5px;
+    color: #fff;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    font-weight: 700;
+}
+@media screen and (max-width: 780px) {
+	.page-node-175 #page175 form{
+		width: 80%;
+		margin: 0 auto;
+	}
+	.page-node-175 #page175 form label, .page-node-175 #page175 .form-actions, .page-node-175 #page175 .form-item{
+		display: block;
+	}	
+	.page-node-175 input.form-text, .page-node-175 textarea.form-textarea, .page-node-175 select.form-select, .page-node-175 #page175 fieldset{
+		width: 90%;
+	}	
+}
+
+input.form-email , #edit-submitted-civicrm-1-contact-1-phone-phone{
+	direction: ltr
+}
+</style>
+<div id="page175">  
+      <?php print render($page['content']); ?>    
+              <?php if ($messages): ?>
+		    <div id="messages"><div class="">
+		      <?php print $messages; ?>
+		    </div></div> <!-- /.section, /#messages -->
+		  <?php endif; ?>
+
+</div>

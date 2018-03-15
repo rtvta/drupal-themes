@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe446dbb-f162-4b68-ac76-96476b6039ff" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/zeropoint/CHANGELOG.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/_custom/bb-logo-spa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/_custom/bb-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/_custom/custom-style-c1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/_custom/custom-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/_custom/custom-style_backup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/_custom/header-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/_custom/headerimg-rtl/ephemeral_a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/_custom/headerimg-rtl/ephemeral_b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/_custom/headerimg-rtl/ephemeral_c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/_custom/headerimg-rtl/ephemeral_d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/_custom/headerimg-rtl/ephemeral_e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/_custom/headerimg-rtl/rotate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/_custom/headerimg/ephemeral_a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/_custom/headerimg/ephemeral_b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/_custom/headerimg/ephemeral_c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/_custom/headerimg/ephemeral_d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/_custom/headerimg/ephemeral_e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/_custom/headerimg/rotate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/_custom/myother-social-network_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/_custom/sliderimg/abstract-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/_custom/sliderimg/abstract-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/_custom/sliderimg/abstract-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/_custom/sliderimg/bw-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/_custom/sliderimg/bw-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/_custom/sliderimg/bw-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/_custom/sliderimg/slide-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/_custom/sliderimg/slide-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/_custom/sliderimg/slide-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/css/drupal/drupal-default-min-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/css/drupal/drupal-default-min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/css/drupal/drupal-default-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/css/drupal/drupal-default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/css/drupal/drupal-system-min-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/css/drupal/drupal-system-min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/css/drupal/drupal-system-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/css/drupal/drupal-system.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/css/grey.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/css/ink.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/css/ivy.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/css/lime.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/css/nature.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/css/orange.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/css/print.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/css/sangue.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/css/sky.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/css/slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/css/style-zero-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/css/style-zero.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/css/themer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/css/yui/grids-responsive-min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/css/yui/grids-responsive-old-ie-min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/css/yui/pure-min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/donations.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/donations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/Google_circle.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/_brand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/_sidebarimg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/_sprites_block32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/_sprites_block48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/_sprites_soc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/fill_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/fill_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/forum-container.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/forum-container_rtl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/forum-link.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/forum-link_rtl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icon-comment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icon-comment_rtl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_01_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_01_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_02_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_02_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_03_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_03_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_04_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_04_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_05_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_05_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_06_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_06_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_07_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_07_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_08_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_08_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_09_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_09_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_10_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_10_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_11_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_11_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_12_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_12_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_13_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_13_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_14_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_14_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_15_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_15_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_16_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_16_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_17_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_17_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_18_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_18_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_19_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_19_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_20_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_20_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_21_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_21_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_22_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_22_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_23_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_23_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_24_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_24_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_25_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_25_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_26_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_26_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_27_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_27_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_28_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_28_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_29_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_29_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_30_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_30_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_31_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_31_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_32_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_32_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_33_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_33_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_34_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/blocks/icon_34_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/check_rtl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/comment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/comments.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/email.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/key_add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/key_delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/more.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/more_rtl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/page-add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/pdf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/printer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/read_more.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/read_more_rtl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/reply.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/tag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/trash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/user-add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/user-multiple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/user-remove.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/user_blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/user_green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/user_red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/icons/user_yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/menu-collapsed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/menu-collapsed_rtl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/menu-expanded.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/menu-leaf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/menu-up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/menushadow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/mobi-dot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/mobi-sq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/social/facebook_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/social/flickr_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/social/googleplus_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/social/instagram_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/social/linkedin_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/social/pinterest_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/social/skype_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/social/tumblr_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/social/twitter_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/social/vimeo_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/all/social/youtube_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/arr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/fill_block.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/fill_block2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/fill_top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/fill_top_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/fill_top_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/google-20X20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/google-favicon-vector-400x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/google-favicon-vector-60x60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/ink/arr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/ink/fill_block.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/ink/fill_block2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/ink/fill_top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/ink/fill_top_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/ink/fill_top_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/ivy/arr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/ivy/fill_block.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/ivy/fill_block1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/ivy/fill_top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/ivy/fill_top_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/ivy/fill_top_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/lime/arr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/lime/fill_block.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/lime/fill_block2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/lime/fill_top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/lime/fill_top_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/lime/fill_top_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/login_with_google_315X53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/login_with_google_320X53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/nature/arr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/nature/fill_block.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/nature/fill_block2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/nature/fill_top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/nature/fill_top_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/nature/fill_top_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/orange/arr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/orange/fill_block.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/orange/fill_block2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/orange/fill_top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/orange/fill_top_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/orange/fill_top_left1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/orange/fill_top_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/orange/fill_top_right1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/orange/nav-down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/orange/nav-left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/orange/nav-right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/sangue/arr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/sangue/fill_block.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/sangue/fill_block2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/sangue/fill_top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/sangue/fill_top_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/sangue/fill_top_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/sky/arr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/sky/fill_block.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/sky/fill_block2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/sky/fill_top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/sky/fill_top_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/images/sky/fill_top_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/js/classList.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/js/jquery.flexslider-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/js/slide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/js/toggles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/js/toggles.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--106.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--110.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--114.tpl.php.xxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--168.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--169.tpl.php.xxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--175.tpl.php.xxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--183.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--212.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--230.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--234.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--245.tpl.php.xxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--266.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--271.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--277.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--308.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--325.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--326.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--327.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--331.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--334.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--341.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--342.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--348.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--349.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--353.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--353.tpl.php1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--366.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--367.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--368.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--369.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--370.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--371.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--372.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--373.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--377.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--378.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--380.tpl.php.xxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--382.tpl.php.xxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--383.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--386.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--390.tpl.php.xxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--391.tpl.php.xxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--392.tpl.php.xxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--393.tpl.php.xxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--397.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--424.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--425.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--426.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--454.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page--node--54.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page235/lock_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page235/logo-kabbalah-he.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/page235/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/templates/block.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/templates/comment.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/templates/html.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/templates/maintenance-page.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/templates/node--blog.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/templates/node.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/templates/page.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/templates/slider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/theme-settings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeropoint/zeropoint.info" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="template.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zeropoint/template.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1137">
+              <caret line="283" column="84" selection-start-line="283" selection-start-column="84" selection-end-line="283" selection-end-column="84" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page--node--454.tpl.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zeropoint/page--node--454.tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="53" column="1" lean-forward="true" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
+              <folding>
+                <element signature="n#style#0;n#h2#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="grey.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zeropoint/css/grey.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2101" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="themer.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zeropoint/css/themer.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-47" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/zeropoint" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/zeropoint/template.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-444" />
+    <option name="y" value="-1418" />
+    <option name="width" value="2299" />
+    <option name="height" value="1418" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bb-drupal-themes-zeropoint" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bb-drupal-themes-zeropoint" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="bb-drupal-themes-zeropoint" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bb-drupal-themes-zeropoint" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="zeropoint" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe446dbb-f162-4b68-ac76-96476b6039ff" name="Default" comment="" />
+      <created>1521124347068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521124347068</updated>
+      <workItem from="1521124348477" duration="3858000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3858000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-444" y="-1418" width="2299" height="1418" extended-state="0" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="File Transfer" weight="0.329296" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.27100682" />
+      <window_info anchor="right" id="Remote Host" visible="true" weight="0.13380593" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17235269" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/zeropoint/js/slide.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zeropoint/page--node--454.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="53" column="1" lean-forward="true" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zeropoint/_custom/bb-logo-spa.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zeropoint/_custom/bb-logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zeropoint/_custom/header-bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zeropoint/_custom/myother-social-network_32.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zeropoint/_custom/headerimg/ephemeral_b.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zeropoint/_custom/headerimg/ephemeral_a.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zeropoint/css/grey.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2101" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zeropoint/css/themer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-47" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zeropoint/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1137">
+          <caret line="283" column="84" selection-start-line="283" selection-start-column="84" selection-end-line="283" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
