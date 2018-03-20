@@ -1,0 +1,88 @@
+/***************/
+/* CSS for specific nodes with node-type == 'rishum'*/
+/***************/
+body{
+    direction: rtl;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: #000;
+    background-color: white !important;
+//padding: 40px;
+    line-height: 1.0em;
+}
+a,p, li, h1, h2, h3{
+    color: #000;
+    line-height: 1.0em;
+}
+.reg-days{
+    width: auto;
+    margin: 20px auto;
+    padding: 5px;
+    background: lightgrey;
+    color: black;
+}
+.band-gold {
+    width: auto;
+    margin: 10px auto;
+    padding: 2px;
+    background: goldenrod;
+    color: white;
+}
+.band-none{
+    width: auto;
+    margin: 10px auto;
+    padding: 2px;
+    background: none;
+    border-style: dotted;
+    color: black;
+}
+.band-red{
+    width: auto;
+    margin: 10px auto;
+    padding: 2px;
+    background: red;
+    color: black;
+}
+.band-blue{
+    width: auto;
+    margin: 10px auto;
+    padding: 2px;
+    background: blue;
+    color: white;
+}
+.band-turq{
+    width: auto;
+    margin: 10px auto;
+    padding: 2px;
+    background: mediumseagreen ;
+    color: black;
+}
+.reg-comments{
+    width: 60%;
+    margin: 10px auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: greenyellow ;
+    color: black;
+    border-style: solid;
+    border-color: red;
+}
+.error{
+    font-weight: bold;
+    color: red;
+    font-size: 24px;
+    line-height: 28px;
+}
+.success{
+    font-weight: bold;
+    color: green;
+    font-size: 24px;
+    line-height: 28px;
+}
+.attention{
+    font-weight: bold;
+    color: orange;
+    font-size: 20px;
+    line-height: 24px;
+}
