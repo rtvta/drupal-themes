@@ -5,5 +5,3 @@
 /zeropoint/js
 /zeropoint/templates
 /.idea/
-*.tpl.php
-!page--node--tpl--454.tpl.php
